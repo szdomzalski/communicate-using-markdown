@@ -17,3 +17,9 @@ finally:
   hash = hashlib.new('sha256', test_str.encode())
   print(f'Hash: {hash.hexstring()}')
 ```
+- [x] Create basic class, e.g. `abc.ABC`
+- [x] Create unit class
+- [ ] Create specific unit class
+- [ ] Create unittest file and class
+- [x] Create combat class
+- [ ] Prepare interface for combat
